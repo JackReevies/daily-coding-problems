@@ -10,7 +10,7 @@ You can assume the string to be encoded have no digits and consists solely of al
 You can assume the string to be decoded is valid.
 */
 
-const inputString = 'AAAABBBCCDAA'
+const inputString = 'AAAABBBCCDAAA'
 
 function encode (input) {
   let lastChar
